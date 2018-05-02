@@ -2,7 +2,7 @@ lybhy's Arcade Game
 ===============================
 4th Project for the Udacity FEND Nanodegree
 
-Open the index.html file in your browser.
+Open the index.html file or go directly to https://lybhy.github.io/FroggerGame/ to start the game in your browser.
 
 Use arrow-keys to move around ;-)
 
