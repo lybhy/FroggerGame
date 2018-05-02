@@ -1,7 +1,8 @@
 lybhy's Arcade Game
 ===============================
-4th Project for the Udacity FEND Nanodegree 
+4th Project for the Udacity FEND Nanodegree
 
+Open the index.html file in your browser.
 
 Use arrow-keys to move around ;-)
 
