@@ -4,7 +4,7 @@ lybhy's Arcade Game
 
 Open the index.html file or go directly to https://lybhy.github.io/FroggerGame/ to start the game in your browser.
 
-Use arrow-keys to move around ;-)
+Use **arrow-keys** to move around ;-)
 
 Reach the water at the top to win the game and earn **score-points** on every waterpass.
 
